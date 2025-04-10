@@ -17,19 +17,11 @@
 
 ---
 
-### 📌 Projetos em Destaque
-
-- [Bot multi-eventos com MongoDB](https://github.com/seuusuario/bot-eventos)
-- [Sistema de verificação com Tor](https://github.com/seuusuario/verificacao-tor)
-- [Clonador de servidores Discord](https://github.com/seuusuario/clonador-discord)
-
----
-
 ### 📊 GitHub Stats
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ---
 
