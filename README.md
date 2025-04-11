@@ -23,8 +23,3 @@
 <img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
----
-
-### 📫 Me encontra por aí:
-
-[![Discord](https://img.shields.io/badge/-devds0000-5865F2?style=flat&logo=discord)](https://discord.com/users/961203611176697886)
