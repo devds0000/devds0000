@@ -23,3 +23,8 @@
 <img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
+<div>
+
+  ![Snake animation](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
+
+</div>
