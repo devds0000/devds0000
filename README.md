@@ -20,11 +20,11 @@
 ### 📊 GitHub Stats
 
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://streak-stats.demolab.com?user=devds0000&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devds0000&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
-<div>
+<div align="center">
 
-  ![Snake animation](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devds0000/devds0000/blob/output/github-contribution-grid-snake.svg)
 
 </div>
